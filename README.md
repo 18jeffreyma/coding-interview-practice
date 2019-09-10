@@ -1,2 +1,2 @@
-# coding_interview_practice
+# coding-interview-practice
 my personal coding interview prep
